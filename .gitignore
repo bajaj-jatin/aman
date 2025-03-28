@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+node_modules/
+# Optional: Also exclude other temporary files
+.env
+dist/
+*.log
